@@ -28,6 +28,11 @@ public class incrementdecrementOpearator {
 		System.out.println(x4);
 		System.out.println(d);
 		
+		int x5=20;
+		x5=21;
+		System.out.println(x5);
+		
+	
 		
 	}
 
